@@ -1,0 +1,8 @@
+*	JAX-WS 
+		- Java API for XML-Web Services
+*	JAX-RS
+		- Java API for XML-RESTful Web Services
+*	SEI
+		- Service Endpoint Interface
+*	SIB
+		- Service Implementation Bean
